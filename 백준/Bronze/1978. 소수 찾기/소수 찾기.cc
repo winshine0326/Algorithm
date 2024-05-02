@@ -6,7 +6,6 @@ int main(void){
 
     scanf("%d",&n);
     for(int i=0;i<n;i++){
-        int sum=0;
         scanf("%d",&x);
         for(int j=x-1;j>=1;j--){
             if(j==1)
