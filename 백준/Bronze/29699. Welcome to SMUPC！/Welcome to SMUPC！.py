@@ -1,1 +1,1 @@
-print("WelcomeToSMUPC"[(int(input()))%14-1])
+print("WelcomeToSMUPC"[int(input())%14-1])
